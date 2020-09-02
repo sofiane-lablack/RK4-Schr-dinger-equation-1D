@@ -1,0 +1,11 @@
+0 1 0 0 6.91441e-310 6.91441e-310 6.95273e-310
+1 1 -2.62307e+19 -nan -nan -nan -nan
+2 -3.9346e+19 4.58699e+38 -nan -nan -nan -nan
+3 6.02042e+38 -6.76799e+57 -nan -nan -nan -nan
+4 -8.77332e+57 1.01915e+77 -nan -nan -nan -nan
+5 1.31503e+77 -1.53068e+96 -nan -nan -nan -nan
+6 -1.97623e+96 2.29971e+115 -nan -nan -nan -nan
+7 2.96889e+115 -3.45497e+134 -nan -nan -nan -nan
+8 -4.46036e+134 5.19061e+153 -nan -nan -nan -nan
+9 6.70105e+153 -7.79816e+172 -nan -nan -nan -nan
+10 -1.00674e+173 1.17156e+192 -nan -nan -nan -nan
